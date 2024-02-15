@@ -9,7 +9,7 @@ Install with pip:
 
  `$ pip install chromedriver_binary`
 
-#Usage
+# Usage
 
 ```Python
 import selenium
